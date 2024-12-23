@@ -13,3 +13,4 @@
 * a linha 13 está dedicada a testar se aprendi
 
 * comando git fetch
+* testando o git fetch, faça o teste e aparecendo aí sim pode gitar o o git pull, ok?
