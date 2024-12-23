@@ -4,3 +4,6 @@
 
 ### Salvando modificações
 
+* uso do comndo restores
+
+* comando git push
