@@ -11,3 +11,5 @@
 * comando git pull
 
 * a linha 13 está dedicada a testar se aprendi
+
+* comando git fetch
